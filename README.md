@@ -1,2 +1,2 @@
-# KPI-SRTS
-Specialized Real-Time Systems
+# KPI-RTS
+Real-Time Systems
