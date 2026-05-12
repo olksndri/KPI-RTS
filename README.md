@@ -1,2 +1,2 @@
 # KPI-RTS
-Real-Time Systems
+Real-Time Systems labs
